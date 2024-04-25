@@ -1,6 +1,6 @@
 Definition :- 
 
-A NumPy array, also called an ndarray, is a fundamental data structure in the NumPy library for Python. It's a powerful N-dimensional array that efficiently stores and manipulates numerical data. Here are some key points about NumPy arrays:
+A NumPy array, also called an **ndarray**, is a fundamental data structure in the NumPy library for Python. It's a powerful N-dimensional array that efficiently stores and manipulates numerical data. Here are some key points about NumPy arrays:
 
 Efficiency: Compared to traditional Python lists, NumPy arrays are designed for numerical data and offer superior performance in terms of speed and memory usage. This is because all the elements in a NumPy array must be of the same data type, allowing for optimized operations.
 
